@@ -1,8 +1,6 @@
 {
-  "prompt": "A 19th-century naturalist scientific plate titled 'Declinatio Gradientis'. The central figure is a topographical cross-section of a deep, undulating valley (loss surface) rendered in fine copperplate engraving style with hand-tinted watercolor washes of sap green and burnt umber. A dotted ink line (the path) descends from a high ridge through a series of marked points (iterations), terminating at a deep basin (global minimum). Surrounding the central landscape are detailed botanical-style 'dissections': Fig I. shows a magnified vector arrow (gradient) tangent to a curve; Fig II. shows the diminishing step sizes (learning rate decay). Fine stippled shading, elegant cursive Latin annotations, aged cream paper texture, foxing at the edges. No 3D digital gradients, no modern sans-serif fonts.",
-  "model": "Flux Pro 1.1",
-  "concept": "Gradient Descent",
-  "tradition_name": "19th-century Naturalist Illustration",
-  "tradition_period": "1830s–1880s",
-  "tradition_approach": "Applied lithographic cross-hatching for topography and a specimen-and-dissection layout. Used Latinate taxonomy and 'Plate' numbering to mimic Victorian scientific journals, replacing biological specimens with mathematical iterations to show convergence grammar."
+  "prompt": "your complete final prompt, verbatim — include any negative prompts, style weights, or model parameters",
+  "model": "model name and version, e.g. Midjourney v6.1, DALL·E 3, Flux Pro 1.1",
+  "paradox": "name of the paradox you chose",
+  "visual_logic": "max 40 words: what does the viewer see, and how does that visual structure map to the paradox's essence?"
 }
